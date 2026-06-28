@@ -1,0 +1,1 @@
+"""Synthetic causal data generation."""

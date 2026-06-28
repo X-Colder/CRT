@@ -5,6 +5,12 @@ dist/
 .venv/
 *.pt
 wandb/
-data/*.csv
-data/*.json
 .DS_Store
+runs/
+checkpoints/
+eval_output/
+data/sachs/
+data/asia/
+data/alarm/
+data/medical_demo/
+data/*.npy
